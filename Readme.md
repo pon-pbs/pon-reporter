@@ -1,4 +1,4 @@
-## What is MEV-Boost?
+## What is PON Reporter
 
 In the Proof of Neutrality (PoN) relay, a reporter plays a critical role in maintaining the integrity and security of the protocol. The primary function of a reporter is to scrutinize the activities of proposers and builders, ensuring that they adhere to the rules and regulations of the network.
 
